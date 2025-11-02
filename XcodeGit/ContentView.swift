@@ -24,6 +24,7 @@ struct ContentView: View {
             //リモートリポジトリと接続
             Text("リモートリポジトリと接続")
 
+            Text("Pullできるかな")
         }
         .padding()
     }
