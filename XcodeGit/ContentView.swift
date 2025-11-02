@@ -21,6 +21,8 @@ struct ContentView: View {
             Text("３回目のコミット")
             //4回目のコミット
             Text("４回目のコミット")
+            //リモートリポジトリと接続
+            Text("リモートリポジトリと接続")
 
         }
         .padding()
